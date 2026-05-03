@@ -1,4 +1,4 @@
-const BASE = import.meta.env.VITE_API_URL || 'http://localhost:8000'
+const BASE = import.meta.env.VITE_API_URL || 'https://devopsapp-q1cx.onrender.com/'
 
 export const API = {
   metrics:          `${BASE}/api/metrics`,
