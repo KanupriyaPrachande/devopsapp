@@ -158,7 +158,7 @@ NebulaOps/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/KanupriyaPrachande/devopsapp.git
+git clone https://github.com/KanupriyaPrachande/NebulaOps.git
 ```
 
 ---
